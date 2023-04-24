@@ -1,25 +1,25 @@
-## Beyaz Takkeli Tornaci 👋 Can Deger  
+## Electronics Technician 👋 Archley  
   
 
-<a href="https://twitter.com/candeger" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/candeger" target="_blank">
+<a href="https://www.linkedin.com/in/%C3%B6mer-undefined-1399bb273/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/candeger" target="_blank">
+<a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@candeger" target="_blank">
+<a href="https://www.youtube.com/channel/UCKU59MBMTZuwEQRNZJCEheg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://tiktok.com/@can.deger">
+<a href="https://www.tiktok.com/legal/page/us/privacy-policy/en">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/lunizz">
+<a href="https://discord.gg/">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitch.tv/lunizz">
+<a href="https://twitch.tv/">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
 </a>
 
@@ -27,11 +27,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-- LuNiZz┊Security Architect, streamer, gamer <br>
+- Archley┊Electronics Technician, Security Architect <br>
 
-- Father of 3 [👦👧👶] ❤️ <br>
+- Turkey [🇹🇷] ❤️ <br>
 
-- ☁️🍺✈️⚽🏈🎾🎮 <br>
+- 🐬🌊 <br>
 
 
 
