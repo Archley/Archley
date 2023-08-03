@@ -31,7 +31,7 @@
 
 - Turkey [🇹🇷] ❤️ <br>
 
-- 🐬🌊 <br>
+- I cant find anything to write here. <br>
 
 
 
