@@ -27,11 +27,10 @@
 
 <table><tr><td valign="top" width="50%">
 
-- Archley┊Electronics Technician, Security Architect <br>
+- Archley┊Electronics Technician <br>
 
 - Turkey [🇹🇷] ❤️ <br>
 
-- I cant find anything to write here. <br>
 
 
 
